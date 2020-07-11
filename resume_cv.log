@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.12.19)  26 MAY 2020 14:56
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.12.19)  11 JUL 2020 17:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -856,15 +856,15 @@ Overfull \hbox (31.19447pt too wide) in alignment at lines 11--27
 
 ) (./cv-sections/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 22.
+(Font)              scaled to size 12.0pt on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
-(Font)              scaled to size 12.0pt on input line 22.
+(Font)              scaled to size 12.0pt on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <11> not available
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 22.
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 11.0pt on input line 22.
+(Font)              scaled to size 11.0pt on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/bx/n' will be
-(Font)              scaled to size 11.0pt on input line 37.
+(Font)              scaled to size 11.0pt on input line 24.
 ) (./cv-sections/projects.tex) (./cv-sections/education.tex) [1
 
 ]
@@ -879,7 +879,7 @@ Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 Here is how much of TeX's memory you used:
  40453 strings out of 492909
  797247 string characters out of 6135046
- 1014144 words of memory out of 5000000
+ 1015144 words of memory out of 5000000
  44008 multiletter control sequences out of 15000+600000
  534845 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
