@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.11.6)  7 NOV 2022 16:18
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.11.6)  11 MAY 2023 02:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -765,10 +765,10 @@ Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 Here is how much of TeX's memory you used:
  31712 strings out of 479819
  624830 string characters out of 5895846
- 1064403 words of memory out of 5000000
+ 1065402 words of memory out of 5000000
  48308 multiletter control sequences out of 15000+600000
  534958 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,11n,109p,818b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /workspace/resume/resume_cv.xdv (2 pages, 39524 bytes).
+Output written on /workspace/resume/resume_cv.xdv (2 pages, 37956 bytes).
