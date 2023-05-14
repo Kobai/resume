@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.11.6)  13 MAY 2023 15:15
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.11.6)  14 MAY 2023 16:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -742,15 +742,15 @@ Overfull \hbox (31.19447pt too wide) in alignment at lines 11--27
 
 ) (/workspace/resume/cv-sections/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 21.
+(Font)              scaled to size 12.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 21.
+(Font)              scaled to size 12.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <11> not available
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 21.
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 11.0pt on input line 21.
+(Font)              scaled to size 11.0pt on input line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
-(Font)              scaled to size 11.0pt on input line 21.
+(Font)              scaled to size 11.0pt on input line 22.
 ) (/workspace/resume/cv-sections/projects.tex) (/workspace/resume/cv-sections/education.tex) [1
 
 ]
@@ -771,4 +771,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  67i,11n,109p,818b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /workspace/resume/resume_cv.xdv (1 page, 35096 bytes).
+Output written on /workspace/resume/resume_cv.xdv (1 page, 36048 bytes).
