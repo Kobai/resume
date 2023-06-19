@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.14)  15 JUN 2023 10:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.14)  19 JUN 2023 17:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -739,15 +739,15 @@ Overfull \hbox (31.72247pt too wide) in alignment at lines 11--27
 
 ) (./cv-sections/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <11> not available
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 26.
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 11.0pt on input line 26.
+(Font)              scaled to size 11.0pt on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
-(Font)              scaled to size 11.0pt on input line 26.
+(Font)              scaled to size 11.0pt on input line 25.
 ) (./cv-sections/projects.tex) (./cv-sections/education.tex) [1
 
 ] (./resume_cv.aux)

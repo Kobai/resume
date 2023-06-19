@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1686817382 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1686817382 0
-  "resume_cv.xdv" 1686817382 37628 77d0771cef1d54f90099b87970e52120 "xelatex"
+["xdvipdfmx"] 1687190032 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1687190033 0
+  "resume_cv.xdv" 1687190032 37628 1ffb723039128be793d609b69bbb71d3 "xelatex"
   (generated)
   "resume_cv.pdf"
   (rewritten before read)
-["xelatex"] 1686817381 "/Users/kobai/Documents/Code/resume/resume_cv.tex" "resume_cv.xdv" "resume_cv" 1686817382 0
+["xelatex"] 1687190031 "/Users/kobai/Documents/Code/resume/resume_cv.tex" "resume_cv.xdv" "resume_cv" 1687190033 0
   "/Users/kobai/Documents/Code/resume/resume_cv.tex" 1686770863 3598 8fa387aea3e97a02fd02f85027e85ae3 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -167,12 +167,12 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "awesome-cv.cls" 1658718385 25326 43b639a37c4ac3b425a0e66157ba9f89 ""
   "cv-sections/education.tex" 1658719596 954 9ae4c61e53d9fd20f79e5bf9779cec05 ""
-  "cv-sections/experience.tex" 1686817380 5210 f3ce2a0533255c8078c68f69f6c04a6c ""
+  "cv-sections/experience.tex" 1687190031 5199 cad1ceac2e5e4306e04cae5b910e9923 ""
   "cv-sections/projects.tex" 1658718385 1633 9f42047cd6f9e30e4e7b3919eeeac939 ""
   "cv-sections/skills.tex" 1686770863 781 d43c6657ff9ab0338a024820f16e77ed ""
   "fontawesome.sty" 1658718385 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume_cv.aux" 1686817382 520 9c1a709c014649c32e70d4a7a33299d3 "xelatex"
-  "resume_cv.out" 1686817382 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume_cv.aux" 1687190032 520 9c1a709c014649c32e70d4a7a33299d3 "xelatex"
+  "resume_cv.out" 1687190032 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   "resume_cv.tex" 1686770863 3598 8fa387aea3e97a02fd02f85027e85ae3 ""
   (generated)
   "resume_cv.aux"
