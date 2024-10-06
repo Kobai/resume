@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.14)  27 OCT 2023 09:24
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.14)  5 OCT 2024 20:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -739,15 +739,15 @@ Overfull \hbox (23.24147pt too wide) in alignment at lines 11--27
 
 ) (./cv-sections/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <11> not available
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 26.
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 11.0pt on input line 26.
+(Font)              scaled to size 11.0pt on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
-(Font)              scaled to size 11.0pt on input line 26.
+(Font)              scaled to size 11.0pt on input line 24.
 ) (./cv-sections/projects.tex) (./cv-sections/education.tex) [1
 
 ] (./resume_cv.aux)
@@ -757,10 +757,10 @@ Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 Here is how much of TeX's memory you used:
  32444 strings out of 476683
  663417 string characters out of 5804047
- 1882018 words of memory out of 5000000
+ 1881018 words of memory out of 5000000
  52163 multiletter control sequences out of 15000+600000
  514907 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  114i,11n,118p,582b,565s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on resume_cv.xdv (1 page, 36948 bytes).
+Output written on resume_cv.xdv (1 page, 37964 bytes).
