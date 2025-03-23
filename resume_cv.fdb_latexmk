@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1742770253.85443 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1742770254.35098 0
-  "resume_cv.xdv" 1742770253.79613 35720 07957e4b1eb16cc8788d259e61eacc9b "xelatex"
+["xdvipdfmx"] 1742770349.15831 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1742770349.64966 0
+  "resume_cv.xdv" 1742770349.10386 35404 f3c06da52d3e3b13c047befce0fe0c64 "xelatex"
   (generated)
   "resume_cv.pdf"
   (rewritten before read)
-["xelatex"] 1742770252.53405 "/Users/kobai/Documents/Code/resume/resume_cv.tex" "resume_cv.xdv" "resume_cv" 1742770254.34954 0
-  "/Users/kobai/Documents/Code/resume/resume_cv.tex" 1728161370.67962 3600 c1d160b47d361705d99ccd24b6356de3 ""
+["xelatex"] 1742770347.85858 "/Users/kobai/Documents/Code/resume/resume_cv.tex" "resume_cv.xdv" "resume_cv" 1742770349.64823 0
+  "/Users/kobai/Documents/Code/resume/resume_cv.tex" 1742770347.61548 3573 e398a428daaecf04881e6d1b20e7ce21 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -168,9 +168,9 @@
   "cv-sections/projects.tex" 1742770252.28234 2236 535dabbf93c4beec3ca927f647e93189 ""
   "cv-sections/skills.tex" 1742768514.38674 767 87986127f6b8eb4dfd6b866bd1c93696 ""
   "fontawesome.sty" 1658718385.19595 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume_cv.aux" 1742770253.79474 128 852fc3e86949e4a73cd552c13992dc37 "xelatex"
-  "resume_cv.out" 1742770253.75508 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "resume_cv.tex" 1728161370.67962 3600 c1d160b47d361705d99ccd24b6356de3 ""
+  "resume_cv.aux" 1742770349.10302 128 852fc3e86949e4a73cd552c13992dc37 "xelatex"
+  "resume_cv.out" 1742770349.04312 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume_cv.tex" 1742770347.61548 3573 e398a428daaecf04881e6d1b20e7ce21 ""
   (generated)
   "resume_cv.aux"
   "resume_cv.log"
